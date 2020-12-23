@@ -66,8 +66,8 @@
   |币信||https://bixin.com||
   |Dappbirds||https://store.dappbirds.com/download||
   |Bitpiehk||https://bitpiehk.com||
-  |Conflux数字钱包社区版（安卓）|Lm开发的Conflux第一款社区钱包，提供安卓版本。不仅支持Conflux树图区块链的资产，而且支持Bounty、论坛、区块浏览器等重要生态dapp。||论坛： https://forum.conflux.fun/t/topic/513|
-  |宝葫芦Gourd（桌面）|Conflux社区第一款全开源的桌面钱包，全面支持Conflux树图区块链上的全部资产，包括各种代币和NFT藏品。此外，独家支持Conflux独有的质押生息功能等，并实时跟踪Conflux生态的最新进展。||github：https://github.com/acuilab/acuibc ， 论坛：https://forum.conflux.fun/t/topic/2020/|
+  |Conflux数字钱包社区版（安卓）|Lm开发的Conflux第一款社区钱包，提供安卓版本。不仅支持Conflux树图区块链的资产，而且支持Bounty、论坛、区块浏览器等重要生态dapp。（正在开发中）||论坛： https://forum.conflux.fun/t/topic/513|
+  |宝葫芦Gourd（桌面）|Conflux社区第一款全开源的桌面钱包，全面支持Conflux树图区块链上的全部资产，包括各种代币和NFT藏品。此外，独家支持Conflux独有的质押生息功能等，并实时跟踪Conflux生态的最新进展。（正在开发中）||github：https://github.com/acuilab/acuibc ， 论坛：https://forum.conflux.fun/t/topic/2020/|
   |TrustDomains|正在开发中|https://trustdomains.org||
 </details>
 <br>
@@ -125,7 +125,7 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |INS3||https://www.ins3.finance/#/ins3/overall||
+  |INS3|去中心化CDS保险项目，把传统金融的中心化保险与CDS理念，优化升级为去中心化保险和CDS。|https://www.ins3.finance/#/ins3/overall||
 </details>
 <br>
 <h3 id="10">- 稳定币</h3>
