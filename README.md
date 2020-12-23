@@ -3,7 +3,30 @@
 [- 推荐](#1) <br>
 [- 社区](#2) <br>
 [- 钱包](#3) <br>
-  
+[- 去中心化交易所](#4) <br>
+[- 矿场](#5) <br>
+[- 海外项目](#6) <br>
+[- 借贷](#7) <br>
+[- 衍生品](#8) <br>
+[- 保险](#9) <br>
+[- 稳定币](#10) <br>
+[- 工具](#11) <br>
+[- 质押服务](#12) <br>
+[- 开发者](#13) <br>
+[- 基础设施](#14) <br>
+[- 博客](#15) <br>
+[- 隐私](#16) <br>
+[- DAO](#17) <br>
+[- NFT](#18) <br>
+[- 去中心化商城](#19) <br>
+[- 通证平台](#20) <br>
+[- 社区小游戏](#21) <br>
+[- 教学](#22) <br>
+[- 协议](#23) <br>
+[- 交易所](#24) <br>
+[- 其它](#25) <br>
+
+
 <br>
 <h3 id="1">- 推荐</h3>
 
@@ -48,8 +71,7 @@
   |TrustDomains|正在开发中|https://trustdomains.org||
 </details>
 <br>
-<details>
-  <summary><h3>- 去中心化交易所</h3></summary>
+<h3 id="4">- 去中心化交易所</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
@@ -57,8 +79,7 @@
   |MoonSwap|基于跨链资产协议 ShuttleFlow 构建的 DEX 协议，为用户提供 0 GAS和高速流畅的全新 AMM 交易体验。|https://moonswap.fi/||
 </details>
 <br>
-<details>
-  <summary><h3>- 矿场</h3></summary>
+<h3 id="5">- 矿场</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
@@ -70,8 +91,7 @@
   |matpool（巴比特矿池）||https://www.matpool.net||
 </details>
 <br>
-<details>
-  <summary><h3>- 海外项目</h3></summary>
+<h3 id="6">- 海外项目</h3>
   
   详情：https://mp.weixin.qq.com/s/j16FwL9gnre4U__2_UDsaw
   
@@ -87,40 +107,35 @@
   |Superfluid|通过合成资产在 Conflux 网络上流通的股票、代币、贵金属等。Superfluid 是 Conflux 网络区块链上的一个协议，用于定义和产生合成数字资产，这些数字资产的价格随其他资产价格的变化而变化，如 BTC、ETH、股票、债券、甚至黄金和白银等。Superfluid 计划优化目前合成资产的行业解决方案，并致力于搭建有算法支持的抵押流程来创建这些数字资产的去中心化平台。（正在开发）|||
 </details>
 <br>
-<details>
-  <summary><h3>- 借贷</h3></summary>
+<h3 id="7">- 借贷</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |Flux|Conflux 网络中的借贷 DeFi 应用。教程：https://mp.weixin.qq.com/s/j2WPI6krTNhq9T9XKjgSIg|http://flux.01.finance/||
 </details>
 <br>
-<details>
-  <summary><h3>- 衍生品</h3></summary>
+<h3 id="8">- 衍生品</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |Salt|正在开发中|||
 </details>
 <br>
-<details>
-  <summary><h3>- 保险</h3></summary>
+<h3 id="9">- 保险</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |INS3||https://www.ins3.finance/#/ins3/overall||
 </details>
 <br>
-<details>
-  <summary><h3>- 稳定币</h3></summary>
+<h3 id="10">- 稳定币</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |YUAN|正在开发中||论坛： https://forum.conflux.fun/t/topic/4221|
 </details>
 <br>
-<details>
-  <summary><h3>- 工具</h3></summary>
+<h3 id="11">- 工具</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
@@ -129,8 +144,7 @@
   |governance|CFX投票治理工具|https://governance.confluxnetwork.org/zh/||
 </details>
 <br>
-<details>
-  <summary><h3>- 质押服务</h3></summary>
+<h3 id="12">- 质押服务</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
@@ -138,8 +152,7 @@
   |FC质押|FC兑换CFX|https://fccfx.confluxscan.io/||
 </details>
 <br>
-<details>
-  <summary><h3>- 开发者</h3></summary>
+<h3 id="13">- 开发者</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
@@ -150,16 +163,14 @@
   |汇流BPM快速开发平台|正在开发中|||
 </details>
 <br>
-<details>
-  <summary><h3>- 基础设施</h3></summary>
+<h3 id="14">- 基础设施</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |域名服务|Conflux域名服务是类似ENS的域名服务，用户可以用可读性更强的字符串名字代替钱包地址，也可以提供类似传统域名一样的服务，可为托管在ipfs上的Dapp网站提供解析服务。|https://forum.conflux.fun/t/topic/1596/25 |论坛：https://forum.conflux.fun/t/topic/1596/25 |
 </details>
 <br>
-<details>
-  <summary><h3>- 博客</h3></summary>
+<h3 id="15">- 博客</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
@@ -167,16 +178,14 @@
   |英文博客|Medium|https://confluxnetwork.medium.com/||
 </details>
 <br>
-<details>
-  <summary><h3>- 隐私</h3></summary>
+<h3 id="16">- 隐私</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |Whoops加密输入法|兼容微信的加密输入法（正在开发中）||论坛：https://forum.conflux.fun/t/topic/1130 |
 </details>
 <br>
-<details>
-  <summary><h3>- DAO</h3></summary>
+<h3 id="17">- DAO</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
@@ -186,8 +195,7 @@
   |社区综合管理委员会||https://forum.conflux.fun/c/38-category/47-category||
 </details>
 <br>
-<details>
-  <summary><h3>- NFT</h3></summary>
+<h3 id="18">- NFT</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
@@ -198,24 +206,21 @@
   |MoonGaming|《MoonGaming》集游戏 NFT发行、售卖、挖矿、转账、交易为一体的NFT GAME平台。（正在开发中）||论坛：https://forum.conflux.fun/t/topic/3650|
 </details>
 <br>
-<details>
-  <summary><h3>- 去中心化商城</h3></summary>
+<h3 id="19">- 去中心化商城</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |Con-dShop|基于Conflux的由去中心化DAO系统治理的商品、服务流通平台。（正在开发中）||论坛：https://forum.conflux.fun/t/topic/2059|
 </details>
 <br>
-<details>
-  <summary><h3>- 通证平台</h3></summary>
+<h3 id="20">- 通证平台</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |Token-Bank|结合Conflux社区文化，实现一套简约、有效、易操作基于Conflux网络的通证发行平台。制作通用证书协议智能合约模板，并根据模板开发基于Conflux网络的通证平台智能合约。（正在开发中）||论坛：https://forum.conflux.fun/t/topic/2207/8|
 </details>
 <br>
-<details>
-  <summary><h3>- 社区小游戏</h3></summary>
+<h3 id="21">- 社区小游戏</h3>
   
   社区游戏汇总导航：https://forum.conflux.fun/t/topic/2141
   |名称|简介|网址|github/论坛地址|
@@ -224,8 +229,7 @@
   |FC幸运抽奖游戏 |转10fc到合约地址，满2人，合约进行随机抽奖，一人独揽大奖。注意：当前合约只认5fc为一票，超过或者不足，会自动返还，安心玩。|http://dweb.link/ipfs/Qmdrh5ncA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws||
 </details>
 <br>
-<details>
-  <summary><h3>- 教学</h3></summary>
+<h3 id="22">- 教学</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
@@ -234,16 +238,14 @@
   |Dapp开发启蒙计划| 80个社区区块链小游戏的教学、研发、玩赏、创收计划。||论坛：https://forum.conflux.fun/t/topic/1135/6|
 </details>
 <br>
-<details>
-  <summary><h3>- 协议</h3></summary>
+<h3 id="23">- 协议</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |CIP|Conflux 改进提案，介绍：https://blog.csdn.net/weixin_44282220/article/details/107925274||https://www.github.com/Conflux-Chain/CIPs|
 </details>
 <br>
-<details>
-  <summary><h3>- 交易所</h3></summary>
+<h3 id="24">- 交易所</h3>
   
   <i>CFX:</i>
   
@@ -273,16 +275,10 @@
   |Hoo（虎符）||https://hoo.com/ ， https://hoozh.com/||
 </details>
 <br>
-<details>
-  <summary><h3>- 其它</h3></summary>
+<h3 id="25">- 其它</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |能源环境资产跟踪管理|项目旨在将能源的环境属性标记为资产（即环境属性的资产化），形成以虚拟资产的形态展现的环境资产，采用区块链技术对其产生、交易、终端使用的全生命周期进行跟踪及管理。“碳资产”、“绿证”、“排污权”、“用能权”、“节能量”等均是环境资产的表现形式。（正在开发中）||论坛：https://forum.conflux.fun/t/topic/2810|
-</details>
-<br>
-<details>
-  <summary><h3>- 其它应用</h3></summary>
-  
 </details>
 <br>
