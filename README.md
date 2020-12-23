@@ -32,7 +32,7 @@
 </details>
 <br>
 <details>
-  <summary><h3>- 钱包1</h3></summary>
+  <summary><h3>- 钱包</h3></summary>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
@@ -44,69 +44,6 @@
   |Conflux数字钱包社区版（安卓）|这是由Lm开发的Conflux第一款社区钱包，提供安卓版本。不仅支持Conflux树图区块链的资产，而且支持Bounty、论坛、区块浏览器等重要生态dapp。||论坛： https://forum.conflux.fun/t/topic/513|
   |宝葫芦Gourd（桌面）|宝葫芦Gourd是Conflux社区第一款全开源的桌面钱包，全面支持Conflux树图区块链上的全部资产，包括各种代币和NFT藏品。此外，独家支持Conflux独有的质押生息功能等，并实时跟踪Conflux生态的最新进展。||github：https://github.com/acuilab/acuibc ， 论坛：https://forum.conflux.fun/t/topic/2020/|
   |trustdomains||https://trustdomains.org||
-</details>
-<br>
-
-<details>
-  <summary><h3>- 钱包2</h3></summary>
-  
-  <table border="1" width="800">
-  <tr>
-    <td width="200"><b>名称</b></td>
-    <td width="200"><b>简介</b></td>
-    <td width="200"><b>网址</b></td>
-    <td width="200"><b>github/论坛地址</b></td>
-  </tr>
-  <tr>
-    <td>hashkey</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>虎符</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>币信</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Dappbirds</td>
-    <td></td>
-    <td>https://store.dappbirds.com/download</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Bitpiehk</td>
-    <td></td>
-    <td>https://bitpiehk.com</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>Conflux数字钱包社区版（安卓）</td>
-    <td>这是由Lm开发的Conflux第一款社区钱包，提供安卓版本。不仅支持Conflux树图区块链的资产，而且支持Bounty、论坛、区块浏览器等重要生态dapp。</td>
-    <td></td>
-    <td>论坛： https://forum.conflux.fun/t/topic/513</td>
-  </tr>
-    <tr>
-    <td>宝葫芦Gourd（桌面）</td>
-    <td>宝葫芦Gourd是Conflux社区第一款全开源的桌面钱包，全面支持Conflux树图区块链上的全部资产，包括各种代币和NFT藏品。此外，独家支持Conflux独有的质押生息功能等，并实时跟踪Conflux生态的最新进展。</td>
-    <td></td>
-    <td>github：https://github.com/acuilab/acuibc ， 论坛：https://forum.conflux.fun/t/topic/2020/</td>
-  </tr>
-  <tr>
-    <td>trustdomains</td>
-    <td></td>
-    <td>https://trustdomains.org</td>
-    <td></td>
-  </tr>
-  </table>
-  
 </details>
 <br>
 <details>
