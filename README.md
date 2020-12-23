@@ -225,7 +225,7 @@
   社区游戏汇总导航：https://forum.conflux.fun/t/topic/2141
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |FC夺宝游戏（熬鹰）|初始参与为1fc，参与次数每增加1000次则参与票增加1fc。举例参与人次5000，每次参与需要6fc。最后参与者如果间隔一小时没有人继续参与，则最后的参与者独揽整个奖池。|一小时: http://dweb.link/ipfs/QmbDd2hfkpvb8X3Lb1qdy5Lu4U7YWfaNM1g2jVBbNzrNZy 十五分钟： http://dweb.link/ipfs/QmcaMtPJ1Lov2pGGc3WaVUDzizRyB4uxd9zZpz3uARZM3C 二合一集成: http://dweb.link/ipfs/QmRMwLSdQoopfhztPkhsuMTeScd6bwuZnZaBEJGa9QYAD4| |
+  |FC夺宝游戏（熬鹰）|初始参与为1fc，参与次数每增加1000次则参与票增加1fc。举例参与人次5000，每次参与需要6fc。最后参与者如果间隔一小时没有人继续参与，则最后的参与者独揽整个奖池。|中文版: http://dweb.link/ipfs/QmZCsywLZgCZUDG3qJe7NiH9dvjjwhVuSHD4B4hYZEeVJL 英文版： http://dweb.link/ipfs/QmQQTZmXXYWpkuPf7gjyF4p8J5QPbsvmtBjKv4Q2WAUC4s 韩文版: http://dweb.link/ipfs/QmXE6KQyup5vXm2Tusi2DdekN12VFKZKk9C6CBMJP16jJ3 | |
   |FC幸运抽奖游戏 |转10fc到合约地址，满2人，合约进行随机抽奖，一人独揽大奖。注意：当前合约只认5fc为一票，超过或者不足，会自动返还，安心玩。|http://dweb.link/ipfs/Qmdrh5ncA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws||
 </details>
 <br>
