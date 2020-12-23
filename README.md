@@ -93,7 +93,7 @@
   |bitquery|Conflux 链上数据API（正在开发）||https://github.com/bitquery/explorer|
   |deepsea|在Conflux上编写的通过验证的安全智能合约的可用语言（正在开发）||https://github.com/certikfoundation/deepsea|
   |dappstarter||||
-  |simpli_defi|Simpli DeFi 是一个智能投顾和 DeFi 聚合器，可简化投资、优化回报。Simpli DeFi 是一个针对拥有闲置数字货币，但没有时间或经验进行投资的用户的链上聚合平台。Simpli-DeFi 通过连接多个平台，把加密货币、通证化的黄金和稳定币等不同资金存入借贷平台和 DEX 上的流动资金池等，简化投资流程。（正在开发）||https://github.com/nelaturuk/<br>Simpli-DeFi-Conflux-2020|
+  |simpli_defi|Simpli DeFi 是一个智能投顾和 DeFi 聚合器，可简化投资、优化回报。Simpli DeFi 是一个针对拥有闲置数字货币，但没有时间或经验进行投资的用户的链上聚合平台。Simpli-DeFi 通过连接多个平台，把加密货币、通证化的黄金和稳定币等不同资金存入借贷平台和 DEX 上的流动资金池等，简化投资流程。（正在开发）||https://github.com/nelaturuk/Simpli-DeFi-Conflux-2020|
   |flullet|用于 Conflux 资产的去中心化桌面钱包（正在开发）|||
   |Decentology|一个可以使定制化的项目源代码生成DApp的SaaS平台（正在开发）||https://www.decentology.com/|
   |Mixpay|基于Conflux DApp的RMB和fiat的通道插件（正在开发）|||
@@ -242,8 +242,8 @@
   社区游戏汇总导航：https://forum.conflux.fun/t/topic/2141
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |FC夺宝游戏（熬鹰）|初始参与为1fc，参与次数每增加1000次则参与票增加1fc。举例参与人次5000，每次参与需要6fc。最后参与者如果间隔一小时没有人继续参与，则最后的参与者独揽整个奖池。|一小时: http://dweb.link/ipfs/QmbDd2hf<br>kpvb8X3Lb1qdy5Lu4U7YWfaNM1g2jVBbNzrNZy 十五分钟： http://dweb.link/ipfs/QmcaMtPJ1Lov2pGG<br>c3WaVUDzizRyB4uxd9zZpz3uARZM3C 二合一集成: http://dweb.link/ipfs/<br>QmRMwLSdQoopfhztPkhsuMTeScd6bwuZnZaBEJGa9QYAD4| |
-  |FC幸运抽奖游戏 |转10fc到合约地址，满2人，合约进行随机抽奖，一人独揽大奖。注意：当前合约只认5fc为一票，超过或者不足，会自动返还，安心玩。|http://dweb.link/ipfs/Qmdrh5n<br>cA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws||
+  |FC夺宝游戏（熬鹰）|初始参与为1fc，参与次数每增加1000次则参与票增加1fc。举例参与人次5000，每次参与需要6fc。最后参与者如果间隔一小时没有人继续参与，则最后的参与者独揽整个奖池。|一小时: http://dweb.link/ipfs/QmbDd2hfkpvb8X3Lb1qdy5Lu4U7YWfaNM1g2jVBbNzrNZy 十五分钟： http://dweb.link/ipfs/QmcaMtPJ1Lov2pGGc3WaVUDzizRyB4uxd9zZpz3uARZM3C 二合一集成: http://dweb.link/ipfs/QmRMwLSdQoopfhztPkhsuMTeScd6bwuZnZaBEJGa9QYAD4| |
+  |FC幸运抽奖游戏 |转10fc到合约地址，满2人，合约进行随机抽奖，一人独揽大奖。注意：当前合约只认5fc为一票，超过或者不足，会自动返还，安心玩。|http://dweb.link/ipfs/Qmdrh5ncA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws||
 </details>
 <br>
 <details>
