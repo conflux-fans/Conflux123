@@ -183,8 +183,7 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |域名服务|Conflux域名服务是类似ENS的域名服务，用户可以用可读性更强的字符串名字代替钱包地址，
-也可以提供类似传统域名一样的服务，可为托管在ipfs上的Dapp网站提供解析服务。|https://forum.conflux.fun/t/topic/1596/25 |论坛：https://forum.conflux.fun/t/topic/1596/25 |
+  |域名服务|Conflux域名服务是类似ENS的域名服务，用户可以用可读性更强的字符串名字代替钱包地址，也可以提供类似传统域名一样的服务，可为托管在ipfs上的Dapp网站提供解析服务。|https://forum.conflux.fun/t/topic/1596/25 |论坛：https://forum.conflux.fun/t/topic/1596/25 |
 </details>
 <br>
 <details>
@@ -234,8 +233,7 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |Token-Bank|结合Conflux社区文化，实现一套简约、有效、易操作基于Conflux网络的通证发行平台。
-制作通用证书协议智能合约模板，并根据模板开发基于Conflux网络的通证平台智能合约。||论坛：https://forum.conflux.fun/t/topic/2207/8|
+  |Token-Bank|结合Conflux社区文化，实现一套简约、有效、易操作基于Conflux网络的通证发行平台。制作通用证书协议智能合约模板，并根据模板开发基于Conflux网络的通证平台智能合约。||论坛：https://forum.conflux.fun/t/topic/2207/8|
 </details>
 <br>
 <details>
@@ -244,15 +242,8 @@
   社区游戏汇总导航：https://forum.conflux.fun/t/topic/2141
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |FC夺宝游戏（熬鹰）|初始参与为1fc，参与次数每增加1000次则参与票增加1fc。举例参与人次5000，每次参与需要6fc。
-最后参与者如果间隔一小时没有人继续参与，则最后的参与者独揽整个奖池。|一小时：
-http://dweb.link/ipfs/QmbDd2hfkpvb8X3Lb1qdy5Lu4U7YWfaNM1g2jVBbNzrNZy
-十五分钟：
-http://dweb.link/ipfs/QmcaMtPJ1Lov2pGGc3WaVUDzizRyB4uxd9zZpz3uARZM3C
-二合一集成：
-http://dweb.link/ipfs/QmRMwLSdQoopfhztPkhsuMTeScd6bwuZnZaBEJGa9QYAD4| |
-  |FC幸运抽奖游戏 |转10fc到合约地址，满2人，合约进行随机抽奖，一人独揽大奖。
-注意：当前合约只认5fc为一票，超过或者不足，会自动返还，安心玩。|http://dweb.link/ipfs/Qmdrh5ncA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws||
+  |FC夺宝游戏（熬鹰）|初始参与为1fc，参与次数每增加1000次则参与票增加1fc。举例参与人次5000，每次参与需要6fc。最后参与者如果间隔一小时没有人继续参与，则最后的参与者独揽整个奖池。|一小时: http://dweb.link/ipfs/QmbDd2hfkpvb8X3Lb1qdy5Lu4U7YWfaNM1g2jVBbNzrNZy 十五分钟： http://dweb.link/ipfs/QmcaMtPJ1Lov2pGGc3WaVUDzizRyB4uxd9zZpz3uARZM3C 二合一集成: http://dweb.link/ipfs/QmRMwLSdQoopfhztPkhsuMTeScd6bwuZnZaBEJGa9QYAD4| |
+  |FC幸运抽奖游戏 |转10fc到合约地址，满2人，合约进行随机抽奖，一人独揽大奖。注意：当前合约只认5fc为一票，超过或者不足，会自动返还，安心玩。|http://dweb.link/ipfs/Qmdrh5ncA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws||
 </details>
 <br>
 <details>
@@ -260,8 +251,7 @@ http://dweb.link/ipfs/QmRMwLSdQoopfhztPkhsuMTeScd6bwuZnZaBEJGa9QYAD4| |
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |Conflux-成神学院|课程表现形式：以技术教程文章、技术教程视频、技术教程直播、领域专家分享等形式课程。
-学院课程范围：开设不同种类课程包括但不限于语言类、ui设计、架构、工具使用等等课程；||论坛：https://forum.conflux.fun/t/topic/1129|
+  |Conflux-成神学院|课程表现形式：以技术教程文章、技术教程视频、技术教程直播、领域专家分享等形式课程。学院课程范围：开设不同种类课程包括但不限于语言类、ui设计、架构、工具使用等等课程；||论坛：https://forum.conflux.fun/t/topic/1129|
   |北斗计划|北斗计划是Conflux主办的系列大学生创业营活动，旨在通过集训和创业营的形式为更多优秀的在校大学生提供一个设计创意思路、开发产品原型、创建解决方案和赢取大赛奖品的平台。共设置8节主题课，内容涵盖区块链基础知识、热点应用案例，开发工具、合约开发，同时设有研讨会、个别指导时间；导师均为海内外顶尖高校师资及行业顶尖从业者；采取组队制，并为每个队伍配备助教，确保每个成员都有参与和学习的机会。|https://www.edu.confluxnetwork.org/||
   |Dapp开发启蒙计划| 80个社区区块链小游戏的教学、研发、玩赏、创收计划。||论坛：https://forum.conflux.fun/t/topic/1135/6|
 </details>
@@ -278,6 +268,7 @@ http://dweb.link/ipfs/QmRMwLSdQoopfhztPkhsuMTeScd6bwuZnZaBEJGa9QYAD4| |
   <summary><h3>- 交易所</h3></summary>
   
   - CFX
+  
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |Hoo（虎符)||https://hoo.com/ , https://hoozh.com/||
@@ -292,8 +283,10 @@ http://dweb.link/ipfs/QmRMwLSdQoopfhztPkhsuMTeScd6bwuZnZaBEJGa9QYAD4| |
   |聚币||https://www.jbex.com/||
   |BitAsset||https://www.bitasset.cn/ ， https://www.bitasset.com||
   |Ixx||||
+  
   <br>
   - FC
+  
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |抹茶（MXC）||https://www.mxc.ai ， https://www.mxcio.co||
