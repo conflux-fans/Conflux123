@@ -167,7 +167,7 @@
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |Conflux开发者文档||https://developer.conflux-chain.org/||
-  |Conflux-Truffle|Conflux-Truffle 为以 Truffle 为原型改造的服务于conflux区块链的合约开发工具。|https://www.npmjs.com/package/conflux-truffle|  github: https://github.com/Pana/conflux-101/blob/master/docs/conflux-truffle/ultimate-cfxtruffle-guide.md        论坛： https://juejin.cn/post/6867467433188261902|
+  |Conflux-Truffle|Conflux-Truffle 为以 Truffle 为原型改造的服务于conflux区块链的合约开发工具。|https://www.npmjs.com/package/conflux-truffle|  github: https://github.com/Pana/conflux-101/blob/master/docs/conflux-truffle/ultimate-cfxtruffle-guide.md ， 论坛： https://juejin.cn/post/6867467433188261902|
   |Conflux Studio（IDE）||||
   |Conflux-Rust Docker||||
   |汇流BPM快速开发平台||||
