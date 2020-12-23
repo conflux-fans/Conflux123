@@ -1,7 +1,11 @@
 # Conflux123
 <br><br>
-<details>
-  <summary><h3>- 推荐</h3></summary>
+[- 推荐](#1) <br>
+[- 社区](#2) <br>
+[- 钱包](#3) <br>
+  
+<br>
+<h3 id="1">- 推荐</h3>
 
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
@@ -14,8 +18,7 @@
   |GitHub|Conflux官方GitHub账号|https://github.com/conflux-chain||
 </details>
 <br>
-<details>
-  <summary><h3>- 社区</h3></summary>
+<h3 id="2">- 社区</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
@@ -31,8 +34,7 @@
   |Youtube|Conflux官方Youtube账号|https://www.youtube.com/channel/UCFSTmjoSU8jn6DE_4V2TIzA||
 </details>
 <br>
-<details>
-  <summary><h3>- 钱包</h3></summary>
+<h3 id="3">- 钱包</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
