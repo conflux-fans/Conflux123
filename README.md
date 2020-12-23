@@ -52,10 +52,10 @@
   
   <table border="1" width="800">
   <tr>
-    <td><b>名称</b></td>
-    <td><b>简介</b></td>
-    <td><b>网址</b></td>
-    <td><b>github/论坛地址</b></td>
+    <td width="200"><b>名称</b></td>
+    <td width="200"><b>简介</b></td>
+    <td width="200"><b>网址</b></td>
+    <td width="200"><b>github/论坛地址</b></td>
   </tr>
   <tr>
     <td>hashkey</td>
