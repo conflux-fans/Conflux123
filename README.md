@@ -66,8 +66,8 @@
   |币信||https://bixin.com||
   |Dappbirds||https://store.dappbirds.com/download||
   |Bitpiehk||https://bitpiehk.com||
-  |Conflux数字钱包社区版（安卓）|Lm开发的Conflux第一款社区钱包，提供安卓版本。不仅支持Conflux树图区块链的资产，而且支持Bounty、论坛、区块浏览器等重要生态dapp。（正在开发中）||论坛： https://forum.conflux.fun/t/topic/513|
-  |宝葫芦Gourd（桌面）|Conflux社区第一款全开源的桌面钱包，全面支持Conflux树图区块链上的全部资产，包括各种代币和NFT藏品。此外，独家支持Conflux独有的质押生息功能等，并实时跟踪Conflux生态的最新进展。（正在开发中）||github：https://github.com/acuilab/acuibc ， 论坛：https://forum.conflux.fun/t/topic/2020/|
+  |Conflux数字钱包社区版（安卓）|Lm开发的Conflux第一款社区钱包，提供安卓版本。支持Conflux树图区块链的资产以及Bounty、论坛、区块浏览器等重要生态dapp。（开发中）||论坛： https://forum.conflux.fun/t/topic/513|
+  |宝葫芦Gourd（桌面）|Conflux社区第一款全开源的桌面钱包，全面支持Conflux树图区块链上的全部资产，包括各种代币和NFT藏品。独家支持Conflux独有的质押生息功能等，并实时跟踪Conflux生态的最新进展。（开发中）||github：https://github.com/acuilab/acuibc ， 论坛：https://forum.conflux.fun/t/topic/2020/|
   |TrustDomains|正在开发中|https://trustdomains.org||
 </details>
 <br>
@@ -100,7 +100,7 @@
   |bitquery|Conflux 链上数据API（正在开发）||https://github.com/bitquery/explorer|
   |deepsea|在Conflux上编写的通过验证的安全智能合约的可用语言（正在开发）||https://github.com/certikfoundation/deepsea|
   |dappstarter|正在开发中|||
-  |simpli_defi|Simpli DeFi 是一个智能投顾和 DeFi 聚合器，可简化投资、优化回报。Simpli DeFi 是一个针对拥有闲置数字货币，但没有时间或经验进行投资的用户的链上聚合平台。Simpli-DeFi 通过连接多个平台，把加密货币、通证化的黄金和稳定币等不同资金存入借贷平台和 DEX 上的流动资金池等，简化投资流程。（正在开发）||https://github.com/nelaturuk/Simpli-DeFi-Conflux-2020|
+  |simpli_defi|Simpli DeFi 是一个智能投顾和 DeFi 聚合器，可简化投资、优化回报。Simpli DeFi 是一个针对拥有闲置数字货币，但没有时间或经验进行投资的用户的链上聚合平台，通过连接多个平台，把加密货币、通证化的黄金和稳定币等不同资金存入借贷平台和 DEX 上的流动资金池等，简化投资流程。（正在开发）||https://github.com/nelaturuk/Simpli-DeFi-Conflux-2020|
   |flullet|用于 Conflux 资产的去中心化桌面钱包（正在开发）|||
   |Decentology|一个可以使定制化的项目源代码生成DApp的SaaS平台（正在开发）||https://www.decentology.com/|
   |Mixpay|基于Conflux DApp的RMB和fiat的通道插件（正在开发）|||
@@ -139,7 +139,7 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |类Mist的Conflux桌面小工具(快速部署智能合约模块)|计划逐一实现一些实用的功能，最开始准备先把快速部署合约的功能和钱包功能做出来。其他功能，例如挖矿，信息查询等，后续会逐渐做（如果社区反响好的话）。||论坛： https://forum.conflux.fun/t/topic/1139|
+  |类Mist的Conflux桌面小工具(快速部署智能合约模块)|计划逐一实现一些实用的功能，最开始先做快速部署合约的功能和钱包功能。后续会逐渐做挖矿，信息查询等其他功能。||论坛： https://forum.conflux.fun/t/topic/1139|
   |Stampers|FC投票治理工具|https://stampers.app/||
   |governance|CFX投票治理工具|https://governance.confluxnetwork.org/zh/||
 </details>
@@ -157,7 +157,7 @@
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |Conflux开发者文档||https://developer.conflux-chain.org/||
-  |Conflux-Truffle|Conflux-Truffle 为以 Truffle 为原型改造的服务于conflux区块链的合约开发工具。|https://www.npmjs.com/package/conflux-truffle|  github: https://github.com/Pana/conflux-101/blob/master/docs/conflux-truffle/ultimate-cfxtruffle-guide.md <br> 论坛： https://juejin.cn/post/6867467433188261902|
+  |Conflux-Truffle|Conflux-Truffle为以 Truffle为原型改造的服务于conflux区块链的合约开发工具。|https://www.npmjs.com/package/conflux-truffle|  github: https://github.com/Pana/conflux-101/blob/master/docs/conflux-truffle/ultimate-cfxtruffle-guide.md <br> 论坛： https://juejin.cn/post/6867467433188261902|
   |Conflux Studio（IDE）||https://github.com/ObsidianLabs/ConfluxStudio||
   |Conflux新手向教程汇总||https://shimo.im/sheets/913JVX0avGt61j3E/MODOC||
   |汇流BPM快速开发平台|正在开发中|||
@@ -200,7 +200,7 @@
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |NFT: Tspace|Conflux 网络中进行数字收藏品（非同质化通证，NFT）认证和交易的去中心化市场。|http://nft.tspace.io/||
-  |condragon|《ConDragon》是一款Conflux社区首款DeFi+NFT+RPG Game。在游戏中，玩家可以驯养恐龙、打造装备、组队冒险和捕捉宠物，可以自由进入市场进行交易、竞拍。甚至参与质押赚取整体矿池的分红。玩家参与游戏可以获得具有游戏性以及收藏性的NFT、赚取数字货币、感受3D战斗表现、进行轻量级操作以及体验决策胜利的玩法。|https://condragon.com/ ||
+  |condragon|《ConDragon》是一款Conflux社区首款DeFi+NFT+RPG Game。玩家可在游戏中驯养恐龙、打造装备、组队冒险和捕捉宠物，可自由进入市场进行交易、竞拍。甚至参与质押赚取整体矿池的分红。玩家参与游戏可以获得具有游戏性以及收藏性的NFT、赚取数字货币、感受3D战斗表现、进行轻量级操作以及体验决策胜利的玩法。|https://condragon.com/ ||
   |拓扑三国|《拓扑三国》是由ArtGee和Tspace共同发起的三国NFT卡牌创作和集换游戏（正在开发中）||论坛： https://forum.conflux.fun/t/topic/2685|
   |新物NFT价值流转平台|正在开发中|||
   |MoonGaming|《MoonGaming》集游戏 NFT发行、售卖、挖矿、转账、交易为一体的NFT GAME平台。（正在开发中）||论坛：https://forum.conflux.fun/t/topic/3650|
@@ -217,7 +217,7 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |Token-Bank|结合Conflux社区文化，实现一套简约、有效、易操作基于Conflux网络的通证发行平台。制作通用证书协议智能合约模板，并根据模板开发基于Conflux网络的通证平台智能合约。（正在开发中）||论坛：https://forum.conflux.fun/t/topic/2207/8|
+  |Token-Bank|结合Conflux社区文化，实现一套简约、有效、易操作基于Conflux网络的通证发行平台。制作通用证书协议智能合约模板，并根据模板开发基于Conflux网络的通证平台智能合约。（开发中）||论坛：https://forum.conflux.fun/t/topic/2207/8|
 </details>
 <br>
 <h3 id="21">- 社区小游戏</h3>
@@ -226,14 +226,14 @@
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |FC夺宝游戏（熬鹰）|初始参与为1fc，参与次数每增加1000次则参与票增加1fc。举例参与人次5000，每次参与需要6fc。最后参与者如果间隔一小时没有人继续参与，则最后的参与者独揽整个奖池。|中文版: http://dweb.link/ipfs/QmZCsywLZgCZUDG3qJe7NiH9dvjjwhVuSHD4B4hYZEeVJL 英文版： http://dweb.link/ipfs/QmQQTZmXXYWpkuPf7gjyF4p8J5QPbsvmtBjKv4Q2WAUC4s 韩文版: http://dweb.link/ipfs/QmXE6KQyup5vXm2Tusi2DdekN12VFKZKk9C6CBMJP16jJ3 | |
-  |FC幸运抽奖游戏 |转10fc到合约地址，满2人，合约进行随机抽奖，一人独揽大奖。注意：当前合约只认5fc为一票，超过或者不足，会自动返还，安心玩。|http://dweb.link/ipfs/Qmdrh5ncA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws||
+  |FC幸运抽奖游戏 |转10fc到合约地址，满2人，合约进行随机抽奖，一人独揽大奖。注意：当前合约只认5fc为一票，超过或者不足，会自动返还。|http://dweb.link/ipfs/Qmdrh5ncA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws||
 </details>
 <br>
 <h3 id="22">- 教学</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |Conflux-社区学院|课程表现形式：以技术教程文章、技术教程视频、技术教程直播、领域专家分享等形式课程。学院课程范围：开设不同种类课程包括但不限于语言类、ui设计、架构、工具使用等等课程；||论坛：https://forum.conflux.fun/t/topic/1129|
+  |Conflux-社区学院|课程表现形式：以技术教程文章、技术教程视频、技术教程直播、领域专家分享等形式课程。学院课程范围：开设不同种类课程包括但不限于语言类、ui设计、架构、工具使用等等课程。||论坛：https://forum.conflux.fun/t/topic/1129|
   |北斗计划|北斗计划是Conflux主办的系列大学生创业营活动，旨在通过集训和创业营的形式为更多优秀的在校大学生提供一个设计创意思路、开发产品原型、创建解决方案和赢取大赛奖品的平台。共设置8节主题课，内容涵盖区块链基础知识、热点应用案例，开发工具、合约开发，同时设有研讨会、个别指导时间；导师均为海内外顶尖高校师资及行业顶尖从业者；采取组队制，并为每个队伍配备助教，确保每个成员都有参与和学习的机会。|https://www.edu.confluxnetwork.org/||
   |Dapp开发启蒙计划| 80个社区区块链小游戏的教学、研发、玩赏、创收计划。||论坛：https://forum.conflux.fun/t/topic/1135/6|
 </details>
@@ -279,6 +279,6 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |能源环境资产跟踪管理|项目旨在将能源的环境属性标记为资产（即环境属性的资产化），形成以虚拟资产的形态展现的环境资产，采用区块链技术对其产生、交易、终端使用的全生命周期进行跟踪及管理。“碳资产”、“绿证”、“排污权”、“用能权”、“节能量”等均是环境资产的表现形式。（正在开发中）||论坛：https://forum.conflux.fun/t/topic/2810|
+  |能源环境资产跟踪管理|项目旨在将能源的环境属性标记为资产（即环境属性的资产化），形成以虚拟资产的形态展现的环境资产，采用区块链技术对其产生、交易、终端使用的全生命周期进行跟踪及管理。“碳资产”、“绿证”、“排污权”、“用能权”、“节能量”等均是环境资产的表现形式。（开发中）||论坛：https://forum.conflux.fun/t/topic/2810|
 </details>
 <br>
