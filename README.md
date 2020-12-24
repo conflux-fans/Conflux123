@@ -139,7 +139,7 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |类Mist的Conflux桌面小工具|快速部署合约的功能和钱包功能。后续会做挖矿，信息查询等其他功能。|正在开发中|论坛： https://forum.conflux.fun/t/topic/1139|
+  |类Mist的Conflux桌面小工具|快速部署合约的功能和钱包功能。|正在开发中<br>（后续会做挖矿，信息查询等其他功能）|论坛： https://forum.conflux.fun/t/topic/1139|
   |Stampers|FC投票治理工具|https://stampers.app/||
   |governance|CFX投票治理工具|https://governance.confluxnetwork.org/zh/||
 </details>
