@@ -99,12 +99,12 @@
   |:-:|:-:|:-:|:-:|
   |bitquery|Conflux 链上数据API|开发中|https://github.com/bitquery/explorer|
   |deepsea|在Conflux上编写的通过验证的安全智能合约的可用语言|开发中|https://github.com/certikfoundation/deepsea|
-  |dappstarter||正在开发中||
-  |simpli_defi|Simpli DeFi 是一个智能投顾和 DeFi 聚合器，可简化投资、优化回报。Simpli DeFi 是一个针对拥有闲置数字货币，但没有时间或经验进行投资的用户的链上聚合平台，通过连接多个平台，把加密货币、通证化的黄金和稳定币等不同资金存入借贷平台和 DEX 上的流动资金池等，简化投资流程。|开发中|https://github.com/nelaturuk/Simpli-DeFi-Conflux-2020|
+  |dappstarter||开发中||
+  |simpli_defi|Simpli DeFi 是一个智能投顾和 DeFi 聚合器，可简化投资、优化回报。|开发中|https://github.com/nelaturuk/Simpli-DeFi-Conflux-2020|
   |flullet|用于 Conflux 资产的去中心化桌面钱包|开发中||
   |Decentology|一个可以使定制化的项目源代码生成DApp的SaaS平台|开发中|https://www.decentology.com/|
   |Mixpay|基于Conflux DApp的RMB和fiat的通道插件|开发中||
-  |Superfluid|通过合成资产在 Conflux 网络上流通的股票、代币、贵金属等。Superfluid 是 Conflux 网络区块链上的一个协议，用于定义和产生合成数字资产，这些数字资产的价格随其他资产价格的变化而变化，如 BTC、ETH、股票、债券、甚至黄金和白银等。Superfluid 计划优化目前合成资产的行业解决方案，并致力于搭建有算法支持的抵押流程来创建这些数字资产的去中心化平台。|开发中||
+  |Superfluid|通过合成资产在 Conflux 网络上流通的股票、代币、贵金属等。Superfluid是Conflux上的一个协议，计划优化合成资产的行业解决方案，搭建有算法支持的抵押流程来创建数字资产的去中心化平台。|开发中||
 </details>
 <br>
 <h3 id="7">- 借贷</h3>
@@ -139,7 +139,7 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |类Mist的Conflux桌面小工具|最开始先做快速部署合约的功能和钱包功能。后续会做挖矿，信息查询等其他功能。|正在开发中|论坛： https://forum.conflux.fun/t/topic/1139|
+  |类Mist的Conflux桌面小工具|快速部署合约的功能和钱包功能。后续会做挖矿，信息查询等其他功能。|正在开发中|论坛： https://forum.conflux.fun/t/topic/1139|
   |Stampers|FC投票治理工具|https://stampers.app/||
   |governance|CFX投票治理工具|https://governance.confluxnetwork.org/zh/||
 </details>
@@ -157,7 +157,7 @@
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |Conflux开发者文档||https://developer.conflux-chain.org/||
-  |Conflux-Truffle|以Truffle为原型改造的服务于conflux区块链的合约开发工具。|https://www.npmjs.com/package/conflux-truffle|  github: https://github.com/Pana/conflux-101/blob/master/docs/conflux-truffle/ultimate-cfxtruffle-guide.md <br> 论坛： https://juejin.cn/post/6867467433188261902|
+  |Conflux-Truffle|服务于conflux区块链的合约开发工具。|https://www.npmjs.com/package/conflux-truffle|  github: https://github.com/Pana/conflux-101/blob/master/docs/conflux-truffle/ultimate-cfxtruffle-guide.md <br> 论坛： https://juejin.cn/post/6867467433188261902|
   |Conflux Studio（IDE）||https://github.com/ObsidianLabs/ConfluxStudio||
   |Conflux新手向教程汇总||https://shimo.im/sheets/913JVX0avGt61j3E/MODOC||
   |汇流BPM快速开发平台||正在开发中||
@@ -182,7 +182,7 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |Whoops加密输入法|兼容微信的加密输入法（正在开发中）||论坛：https://forum.conflux.fun/t/topic/1130 |
+  |Whoops加密输入法|兼容微信的加密输入法|正在开发中|论坛：https://forum.conflux.fun/t/topic/1130 |
 </details>
 <br>
 <h3 id="17">- DAO</h3>
@@ -202,7 +202,7 @@
   |NFT: Tspace|Conflux 网络中进行数字收藏品（非同质化通证，NFT）认证和交易的去中心化市场。|http://nft.tspace.io/||
   |condragon|《ConDragon》是一款Conflux社区首款DeFi+NFT+RPG Game。|https://condragon.com/ ||
   |拓扑三国|《拓扑三国》是由ArtGee和Tspace共同发起的三国NFT卡牌创作和集换游戏|正在开发中|论坛： https://forum.conflux.fun/t/topic/2685|
-  |新物NFT价值流转平台|正在开发中|||
+  |新物NFT价值流转平台||正在开发中||
   |MoonGaming|《MoonGaming》集游戏 NFT发行、售卖、挖矿、转账、交易为一体的NFT GAME平台。|正在开发中|论坛：https://forum.conflux.fun/t/topic/3650|
 </details>
 <br>
@@ -210,31 +210,31 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |Con-dShop|基于Conflux的由去中心化DAO系统治理的商品、服务流通平台。（正在开发中）||论坛：https://forum.conflux.fun/t/topic/2059|
+  |Con-dShop|基于Conflux的由去中心化DAO系统治理的商品、服务流通平台。|开发中|论坛：https://forum.conflux.fun/t/topic/2059|
 </details>
 <br>
 <h3 id="20">- 通证平台</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |Token-Bank|结合Conflux社区文化，实现一套简约、有效、易操作基于Conflux网络的通证发行平台。制作通用证书协议智能合约模板，并根据模板开发基于Conflux网络的通证平台智能合约。（开发中）||论坛：https://forum.conflux.fun/t/topic/2207/8|
+  |Token-Bank|结合Conflux社区文化，实现一套简约、有效、易操作基于Conflux网络的通证发行平台。制作通用证书协议智能合约模板，并根据模板开发基于Conflux网络的通证平台智能合约。|开发中|论坛：https://forum.conflux.fun/t/topic/2207/8|
 </details>
 <br>
 <h3 id="21">- 社区小游戏</h3>
   
   社区游戏汇总导航：https://forum.conflux.fun/t/topic/2141
-  |名称|简介|网址|github/论坛地址|
-  |:-:|:-:|:-:|:-:|
-  |FC夺宝游戏（熬鹰）|初始参与为10FC，参与次数每增加100次则参与票增加10FC。若一小时没有人继续参与，则最后参与者得到奖池大奖。|中文版: http://dweb.link/ipfs/QmZCsywLZgCZUDG3qJe7NiH9dvjjwhVuSHD4B4hYZEeVJL 英文版： http://dweb.link/ipfs/QmQQTZmXXYWpkuPf7gjyF4p8J5QPbsvmtBjKv4Q2WAUC4s 韩文版: http://dweb.link/ipfs/QmXE6KQyup5vXm2Tusi2DdekN12VFKZKk9C6CBMJP16jJ3 | |
-  |FC幸运抽奖游戏 |转5fc到合约地址，满3人合约进行随机抽奖，一人独揽大奖。|http://dweb.link/ipfs/Qmdrh5ncA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws||
+  |名称|简介|网址|
+  |:-:|:-:|:-:|
+  |FC夺宝游戏（熬鹰）|初始参与为10FC，参与票随次数增加。若一小时没有人继续参与，则最后参与者得到奖池大奖。|中文版: http://dweb.link/ipfs/QmZCsywLZgCZUDG3qJe7NiH9dvjjwhVuSHD4B4hYZEeVJL 英文版： http://dweb.link/ipfs/QmQQTZmXXYWpkuPf7gjyF4p8J5QPbsvmtBjKv4Q2WAUC4s 韩文版: http://dweb.link/ipfs/QmXE6KQyup5vXm2Tusi2DdekN12VFKZKk9C6CBMJP16jJ3 |
+  |FC幸运抽奖游戏 |转5fc到合约地址，满3人合约进行随机抽奖，一人独揽大奖。|http://dweb.link/ipfs/Qmdrh5ncA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws|
 </details>
 <br>
 <h3 id="22">- 教学</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |Conflux-社区学院|以技术教程文章、技术教程视频、技术教程直播、领域专家分享等形式课程。开设不同种类课程包括但不限于语言类、ui设计、架构、工具使用等。||论坛：https://forum.conflux.fun/t/topic/1129|
-  |北斗计划|北斗计划是Conflux主办的系列大学生创业营活动，通过集训和创业营的形式为更多优秀的在校大学生提供一个设计创意思路、开发产品原型、创建解决方案和赢取大赛奖品的平台。|https://www.edu.confluxnetwork.org/||
+  |Conflux-社区学院|以技术教程文章、视频、直播、领域专家分享等形式课程。开设不同种类课程（如语言类、ui设计、架构、工具使用等）。||论坛：https://forum.conflux.fun/t/topic/1129|
+  |北斗计划|Conflux主办的系列大学生创业营活动，通过集训和创业营的形式为在校大学生提供一个设计创意思路、开发产品原型、创建解决方案和赢取大赛奖品的平台。|https://www.edu.confluxnetwork.org/||
   |Dapp开发启蒙计划| 80个社区区块链小游戏的教学、研发、玩赏、创收计划。||论坛：https://forum.conflux.fun/t/topic/1135/6|
 </details>
 <br>
