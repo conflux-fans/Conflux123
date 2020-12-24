@@ -66,8 +66,8 @@
   |币信||https://bixin.com||
   |Dappbirds||https://store.dappbirds.com/download||
   |Bitpiehk||https://bitpiehk.com||
-  |Conflux数字钱包社区版（安卓）|Lm开发的Conflux第一款社区钱包，提供安卓版本。支持Conflux树图区块链的资产以及Bounty、论坛、区块浏览器等重要生态dapp。（开发中）||论坛： https://forum.conflux.fun/t/topic/513|
-  |宝葫芦Gourd（桌面）|Conflux社区第一款全开源的桌面钱包，全面支持Conflux树图区块链上的全部资产，包括各种代币和NFT藏品。独家支持Conflux独有的质押生息功能等，并实时跟踪Conflux生态的最新进展。（开发中）||github：https://github.com/acuilab/acuibc ， 论坛：https://forum.conflux.fun/t/topic/2020/|
+  |Conflux数字钱包社区版（安卓）|Conflux社区钱包，提供安卓版本。支持Conflux树图区块链的资产以及Bounty、论坛、区块浏览器等重要生态dapp。（开发中）||论坛： https://forum.conflux.fun/t/topic/513|
+  |宝葫芦Gourd（桌面）|Conflux社区全开源的桌面钱包，全面支持Conflux树图区块链上的全部资产，包括代币和NFT藏品。独家支持Conflux的质押生息功能等，并实时跟踪生态最新进展。（开发中）||github：https://github.com/acuilab/acuibc ， 论坛：https://forum.conflux.fun/t/topic/2020/|
   |TrustDomains|正在开发中|https://trustdomains.org||
 </details>
 <br>
@@ -139,7 +139,7 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |类Mist的Conflux桌面小工具(快速部署智能合约模块)|计划逐一实现一些实用的功能，最开始先做快速部署合约的功能和钱包功能。后续会逐渐做挖矿，信息查询等其他功能。||论坛： https://forum.conflux.fun/t/topic/1139|
+  |类Mist的Conflux桌面小工具(快速部署智能合约模块)|最开始先做快速部署合约的功能和钱包功能。后续会做挖矿，信息查询等其他功能。||论坛： https://forum.conflux.fun/t/topic/1139|
   |Stampers|FC投票治理工具|https://stampers.app/||
   |governance|CFX投票治理工具|https://governance.confluxnetwork.org/zh/||
 </details>
@@ -157,7 +157,7 @@
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |Conflux开发者文档||https://developer.conflux-chain.org/||
-  |Conflux-Truffle|Conflux-Truffle为以 Truffle为原型改造的服务于conflux区块链的合约开发工具。|https://www.npmjs.com/package/conflux-truffle|  github: https://github.com/Pana/conflux-101/blob/master/docs/conflux-truffle/ultimate-cfxtruffle-guide.md <br> 论坛： https://juejin.cn/post/6867467433188261902|
+  |Conflux-Truffle|以Truffle为原型改造的服务于conflux区块链的合约开发工具。|https://www.npmjs.com/package/conflux-truffle|  github: https://github.com/Pana/conflux-101/blob/master/docs/conflux-truffle/ultimate-cfxtruffle-guide.md <br> 论坛： https://juejin.cn/post/6867467433188261902|
   |Conflux Studio（IDE）||https://github.com/ObsidianLabs/ConfluxStudio||
   |Conflux新手向教程汇总||https://shimo.im/sheets/913JVX0avGt61j3E/MODOC||
   |汇流BPM快速开发平台|正在开发中|||
@@ -167,7 +167,7 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |域名服务|Conflux域名服务是类似ENS的域名服务，用户可以用可读性更强的字符串名字代替钱包地址，也可以提供类似传统域名一样的服务，可为托管在ipfs上的Dapp网站提供解析服务。|https://forum.conflux.fun/t/topic/1596/25 |论坛：https://forum.conflux.fun/t/topic/1596/25 |
+  |Conflux域名服务|Conflux域名服务是类似ENS的域名服务，用户可以用可读性更强的字符串名字代替钱包地址，也可以提供类似传统域名一样的服务，可为托管在ipfs上的Dapp网站提供解析服务。|https://forum.conflux.fun/t/topic/1596/25 |论坛：https://forum.conflux.fun/t/topic/1596/25 |
 </details>
 <br>
 <h3 id="15">- 博客</h3>
@@ -225,16 +225,16 @@
   社区游戏汇总导航：https://forum.conflux.fun/t/topic/2141
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |FC夺宝游戏（熬鹰）|初始参与为1fc，参与次数每增加1000次则参与票增加1fc。举例参与人次5000，每次参与需要6fc。最后参与者如果间隔一小时没有人继续参与，则最后的参与者独揽整个奖池。|中文版: http://dweb.link/ipfs/QmZCsywLZgCZUDG3qJe7NiH9dvjjwhVuSHD4B4hYZEeVJL 英文版： http://dweb.link/ipfs/QmQQTZmXXYWpkuPf7gjyF4p8J5QPbsvmtBjKv4Q2WAUC4s 韩文版: http://dweb.link/ipfs/QmXE6KQyup5vXm2Tusi2DdekN12VFKZKk9C6CBMJP16jJ3 | |
-  |FC幸运抽奖游戏 |转10fc到合约地址，满2人，合约进行随机抽奖，一人独揽大奖。注意：当前合约只认5fc为一票，超过或者不足，会自动返还。|http://dweb.link/ipfs/Qmdrh5ncA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws||
+  |FC夺宝游戏（熬鹰）|初始参与为10FC，参与次数每增加100次则参与票增加10FC。最后参与者如果间隔一小时没有人继续参与，则最后的参与者得到奖池大奖。|中文版: http://dweb.link/ipfs/QmZCsywLZgCZUDG3qJe7NiH9dvjjwhVuSHD4B4hYZEeVJL 英文版： http://dweb.link/ipfs/QmQQTZmXXYWpkuPf7gjyF4p8J5QPbsvmtBjKv4Q2WAUC4s 韩文版: http://dweb.link/ipfs/QmXE6KQyup5vXm2Tusi2DdekN12VFKZKk9C6CBMJP16jJ3 | |
+  |FC幸运抽奖游戏 |转5fc到合约地址，满3人合约进行随机抽奖，一人独揽大奖。当前合约只认5fc为一票，超过或者不足会自动返还。|http://dweb.link/ipfs/Qmdrh5ncA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws||
 </details>
 <br>
 <h3 id="22">- 教学</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |Conflux-社区学院|课程表现形式：以技术教程文章、技术教程视频、技术教程直播、领域专家分享等形式课程。学院课程范围：开设不同种类课程包括但不限于语言类、ui设计、架构、工具使用等等课程。||论坛：https://forum.conflux.fun/t/topic/1129|
-  |北斗计划|北斗计划是Conflux主办的系列大学生创业营活动，旨在通过集训和创业营的形式为更多优秀的在校大学生提供一个设计创意思路、开发产品原型、创建解决方案和赢取大赛奖品的平台。共设置8节主题课，内容涵盖区块链基础知识、热点应用案例，开发工具、合约开发，同时设有研讨会、个别指导时间；导师均为海内外顶尖高校师资及行业顶尖从业者；采取组队制，并为每个队伍配备助教，确保每个成员都有参与和学习的机会。|https://www.edu.confluxnetwork.org/||
+  |Conflux-社区学院|以技术教程文章、技术教程视频、技术教程直播、领域专家分享等形式课程。开设不同种类课程包括但不限于语言类、ui设计、架构、工具使用等。||论坛：https://forum.conflux.fun/t/topic/1129|
+  |北斗计划|北斗计划是Conflux主办的系列大学生创业营活动，通过集训和创业营的形式为更多优秀的在校大学生提供一个设计创意思路、开发产品原型、创建解决方案和赢取大赛奖品的平台。主题课内容涵盖区块链基础知识、热点应用案例，开发工具、合约开发；导师均为海内外顶尖高校师资及行业顶尖从业者；采取组队制，并为每个队伍配备助教。|https://www.edu.confluxnetwork.org/||
   |Dapp开发启蒙计划| 80个社区区块链小游戏的教学、研发、玩赏、创收计划。||论坛：https://forum.conflux.fun/t/topic/1135/6|
 </details>
 <br>
