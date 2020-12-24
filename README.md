@@ -67,7 +67,7 @@
   |Dappbirds||https://store.dappbirds.com/download||
   |Bitpiehk||https://bitpiehk.com||
   |Conflux数字钱包社区版（安卓）|Conflux社区钱包，提供安卓版本。支持Conflux树图区块链的资产及重要生态dapp。|正在开发中|论坛： https://forum.conflux.fun/t/topic/513|
-  |宝葫芦Gourd（桌面）|Conflux社区全开源的桌面钱包，全面支持Conflux树图区块链上的全部资产。|正在开发中|github：https://github.com/acuilab/acuibc ， 论坛：https://forum.conflux.fun/t/topic/2020/|
+  |宝葫芦Gourd（桌面）|Conflux社区全开源的桌面钱包，支持Conflux树图区块链上的全部资产。|正在开发中|github：https://github.com/acuilab/acuibc ， 论坛：https://forum.conflux.fun/t/topic/2020/|
   |TrustDomains|正在开发中|https://trustdomains.org||
 </details>
 <br>
