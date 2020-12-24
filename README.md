@@ -97,14 +97,14 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |bitquery|Conflux 链上数据API|开发中|https://github.com/bitquery/explorer|
-  |deepsea|在Conflux上编写的通过验证的安全智能合约的可用语言|开发中|https://github.com/certikfoundation/deepsea|
-  |dappstarter||开发中||
-  |simpli_defi|Simpli DeFi 是一个智能投顾和 DeFi 聚合器，可简化投资、优化回报。|开发中|https://github.com/nelaturuk/Simpli-DeFi-Conflux-2020|
-  |flullet|用于 Conflux 资产的去中心化桌面钱包|开发中||
-  |Decentology|一个可以使定制化的项目源代码生成DApp的SaaS平台|开发中|https://www.decentology.com/|
-  |Mixpay|基于Conflux DApp的RMB和fiat的通道插件|开发中||
-  |Superfluid|通过合成资产在 Conflux 网络上流通的股票、代币、贵金属等。Superfluid是Conflux上的一个协议，计划优化合成资产的行业解决方案，搭建有算法支持的抵押流程来创建数字资产的去中心化平台。|开发中||
+  |bitquery|Conflux 链上数据API（开发中）||https://github.com/bitquery/explorer|
+  |deepsea|在Conflux上编写的通过验证的安全智能合约的可用语言（开发中）||https://github.com/certikfoundation/deepsea|
+  |dappstarter|（开发中）|||
+  |simpli_defi|Simpli DeFi 是一个智能投顾和 DeFi 聚合器，可简化投资、优化回报。（开发中）||https://github.com/nelaturuk/Simpli-DeFi-Conflux-2020|
+  |flullet|用于 Conflux 资产的去中心化桌面钱包（开发中）|||
+  |Decentology|一个可以使定制化的项目源代码生成DApp的SaaS平台（开发中）||https://www.decentology.com/|
+  |Mixpay|基于Conflux DApp的RMB和fiat的通道插件（开发中）|||
+  |Superfluid|Superfluid是Conflux上的一个协议，计划优化合成资产的行业解决方案，搭建有算法支持的抵押流程来创建数字资产的去中心化平台。（开发中）|||
 </details>
 <br>
 <h3 id="7">- 借贷</h3>
