@@ -243,7 +243,7 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |CIP|Conflux 改进提案，介绍：https://blog.csdn.net/weixin_44282220/article/details/107925274||https://www.github.com/Conflux-Chain/CIPs|
+  |CIP|Conflux 改进提案，介绍：https://juejin.cn/post/6914956571432730637/||https://www.github.com/Conflux-Chain/CIPs|
 </details>
 <br>
 <h3 id="24">- 交易所</h3>
