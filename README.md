@@ -37,7 +37,7 @@
   |论坛|Conflux社区论坛|https://forum.conflux.fun/||
   |Portal|ConfluxPortal PC端插件钱包|https://portal.conflux-chain.org/|https://github.com/Conflux-Chain/conflux-portal/releases|
   |Bounty|Conflux 赏金任务平台|https://bounty.conflux-chain.org/||
-  |ShuttleFlow|Conflux跨链解决方案，将bitcoin / ethereum / erc20的资产跨链到Conflux公链上|https://shuttleflow.io/shuttle/in|https://conflux-dev.github.io/conflux-dex-docs/shuttleflow/|
+  |ShuttleFlow|Conflux跨链解决方案，将bitcoin/ethereum/erc20的资产跨到Conflux公链上|https://shuttleflow.io/shuttle/in|https://conflux-dev.github.io/conflux-dex-docs/shuttleflow/|
   |GitHub|Conflux官方GitHub账号|https://github.com/conflux-chain||
   |Conflux技术介绍|Conflux技术介绍文档|https://confluxnetwork.org/files/Conflux_Technical_Presentation_20200309.pdf||
 </details>
