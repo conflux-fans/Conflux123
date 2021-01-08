@@ -39,6 +39,7 @@
   |Bounty|Conflux 赏金任务平台|https://bounty.conflux-chain.org/||
   |ShuttleFlow|Conflux跨链解决方案，将bitcoin / ethereum / erc20的资产跨链到Conflux公链上|https://shuttleflow.io/shuttle/in|https://conflux-dev.github.io/conflux-dex-docs/shuttleflow/|
   |GitHub|Conflux官方GitHub账号|https://github.com/conflux-chain||
+  |Conflux技术介绍|Conflux技术介绍文档|https://confluxnetwork.org/files/Conflux_Technical_Presentation_20200309.pdf||
 </details>
 <br>
 <h3 id="2">- 社区</h3>
