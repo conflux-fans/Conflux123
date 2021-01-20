@@ -234,6 +234,7 @@
   |:-:|:-:|:-:|
   |FC夺宝游戏（熬鹰）|初始参与为10FC，参与票随次数增加。若一小时没有人继续参与，则最后参与者得到奖池大奖。|中文版: http://dweb.link/ipfs/QmZCsywLZgCZUDG3qJe7NiH9dvjjwhVuSHD4B4hYZEeVJL 英文版： http://dweb.link/ipfs/QmQQTZmXXYWpkuPf7gjyF4p8J5QPbsvmtBjKv4Q2WAUC4s 韩文版: http://dweb.link/ipfs/QmXE6KQyup5vXm2Tusi2DdekN12VFKZKk9C6CBMJP16jJ3 |
   |FC幸运抽奖游戏 |转5fc到合约地址，满3人合约进行随机抽奖，一人独揽大奖。|http://dweb.link/ipfs/Qmdrh5ncA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws|
+  |小鸡快跑|Fomo3D+NFT的CFX熬鹰抽奖小游戏|http://as.yzbbanban.com/||
 </details>
 <br>
 <h3 id="22">- 教学</h3>
