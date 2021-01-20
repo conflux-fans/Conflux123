@@ -232,6 +232,7 @@
   |:-:|:-:|:-:|
   |Treasure (for FC)|Join the game with 10 FC (the amount required will increase as participants increase), and if no more players join within an hour, the last participant gets all FC in the reward pool.|Chinese: http://dweb.link/ipfs/QmZCsywLZgCZUDG3qJe7NiH9dvjjwhVuSHD4B4hYZEeVJL English: http://dweb.link/ipfs/QmQQTZmXXYWpkuPf7gjyF4p8J5QPbsvmtBjKv4Q2WAUC4s Korean: http://dweb.link/ipfs/QmXE6KQyup5vXm2Tusi2DdekN12VFKZKk9C6CBMJP16jJ3 |
   |FC Lucky Draw|Transfer 5 FC to the contract address, and the round will end once 3 people transfer to the address. One of the 3 will get all 15 FC.|http://dweb.link/ipfs/Qmdrh5ncA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws|
+  |Apollo Snatch|Enhanced CFX Lottery Game with Fomo3D + NFT|http://as.yzbbanban.com/||
 </details>
 <br>
 <h3 id="22">- Lectures</h3>
