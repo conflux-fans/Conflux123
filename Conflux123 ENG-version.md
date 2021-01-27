@@ -239,7 +239,7 @@
   
   |Item|Introduction|Website|Github/Forum|
   |:-:|:-:|:-:|:-:|
-  |Conflux-Community Academy|Courses in forms of tutorials, videos, live show and lectures with different contents, such as languages, UI, architecture and tools.||Forum: https://forum.conflux.fun/t/topic/1129|
+  |Conflux-Community Academy|Courses in forms of tutorials, videos, live show and lectures with different contents, such as languages, UI, architecture and tools.|https://space.bilibili.com/2043099931?spm_id_from=333.788.b_765f7570696e666f.1 |Forum: https://forum.conflux.fun/t/topic/1129|
   |UMA Initiative - Dubhe|Blockchain entrepreneurship camp for university students sponsored by Conflux. It aims to provide a platform for outstanding college students to present creative ideas, develop product prototypes, seek solutions and win competition prizes through intense training in the entrepreneurship camp.|https://www.edu.confluxnetwork.org/||
   |Dapp Development Enlightment Initiative|Teaching, developing and experiencing 80 community mini games and getting rewards.||Forum: https://forum.conflux.fun/t/topic/1135/6|
 </details>
