@@ -241,7 +241,7 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |Conflux-社区学院|以技术教程文章、视频、直播、领域专家分享等形式课程。开设不同种类课程（如语言类、ui设计、架构、工具使用等）。||论坛：https://forum.conflux.fun/t/topic/1129|
+  |Conflux-社区学院|以技术教程文章、视频、直播、领域专家分享等形式课程。开设不同种类课程（如语言类、ui设计、架构、工具使用等）。|https://space.bilibili.com/2043099931?spm_id_from=333.788.b_765f7570696e666f.1 |论坛：https://forum.conflux.fun/t/topic/1129|
   |北斗计划|Conflux主办的系列大学生创业营活动，通过集训和创业营的形式为在校大学生提供一个设计创意思路、开发产品原型、创建解决方案和赢取大赛奖品的平台。|https://www.edu.confluxnetwork.org/||
   |Dapp开发启蒙计划| 80个社区区块链小游戏的教学、研发、玩赏、创收计划。||论坛：https://forum.conflux.fun/t/topic/1135/6|
 </details>
