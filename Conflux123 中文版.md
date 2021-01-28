@@ -43,6 +43,7 @@
   |Conflux公众号文章目录|技术文章、教程、视频、漫画|https://shimo.im/sheets/913JVX0avGt61j3E/wIyyF||
   |如何在Moondex上购买CFX|PC端CFX交易教程|买入：https://forum.conflux.fun/t/topic/4702 <br> 卖出：https://juejin.cn/post/6891963199399133198||
   |如何使用DappBirds手机钱包进行CFX交易|手机端CFX交易教程|https://forum.conflux.fun/t/topic/4713||
+  |logo的设计规范|Conflux logo设计规范|https://www.figma.com/file/nfqsCvoyOXVtVUKiFMZ8qE/Conflux-Guidelines?node-id=0%3A1| |
 </details>
 <br>
 <h3 id="2">- 社区</h3>
