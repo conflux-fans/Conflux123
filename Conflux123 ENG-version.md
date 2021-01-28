@@ -41,6 +41,8 @@
   |GitHub|Conflux official github account|https://github.com/conflux-chain||
   |Conflux technology introduction|Conflux technology introduction document|https://confluxnetwork.org/files/Conflux_Technical_Presentation_20200309.pdf||
   |Conflux WeChat officail account articles|Technology introduction, tutorials, videos, comics|https://shimo.im/sheets/913JVX0avGt61j3E/wIyyF||
+  |How to trade CFX on Moondex|CFX Trading Tutorial on PC|buy: https://forum.conflux.fun/t/topic/4702 <br> sell: https://juejin.cn/post/6891963199399133198||
+  |How to trade CFX on DappBirds|CFX Trading Tutorial on mobile|https://forum.conflux.fun/t/topic/4713||
   |Brand Guidelines|Conflux Brand Guidelines|https://www.figma.com/file/nfqsCvoyOXVtVUKiFMZ8qE/Conflux-Guidelines?node-id=0%3A1| |
 </details>
 <br>
@@ -116,7 +118,7 @@
   
   |Item|Introduction|Website|Github/Forum|
   |:-:|:-:|:-:|:-:|
-  |Flux|Lending DeFi on top of the Conflux Network. Tutorials: https://mp.weixin.qq.com/s/j2WPI6krTNhq9T9XKjgSIg|http://flux.01.finance/||
+  |Flux|Lending DeFi on top of the Conflux Network. Tutorials: https://www.yuque.com/docs/share/4ef2d544-d6ac-478c-a005-5675e43ea3df?# |http://flux.01.finance/||
 </details>
 <br>
 <h3 id="8">- Derivatives</h3>
