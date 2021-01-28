@@ -118,7 +118,7 @@
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |Flux|Conflux 网络中的借贷 DeFi 应用。教程：https://mp.weixin.qq.com/s/j2WPI6krTNhq9T9XKjgSIg|http://flux.01.finance/||
+  |Flux|Conflux 网络中的借贷 DeFi 应用。教程：https://www.yuque.com/docs/share/4ef2d544-d6ac-478c-a005-5675e43ea3df?# |http://flux.01.finance/||
 </details>
 <br>
 <h3 id="8">- 衍生品</h3>
