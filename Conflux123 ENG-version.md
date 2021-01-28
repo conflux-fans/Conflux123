@@ -75,7 +75,7 @@
   |Conflux Crypto Wallet by the Community (Android)|Conflux wallet for Android is provided by the Community, supporting Conflux chain assets and major DApps on the Conflux chain.|Download link: http://community.conflux.work/confluxwallet_v1.2.2.apk <br> https://github.com/calmlism/Conflux-wallet/releases/download/v1.2.2/confluxwallet_v1.2.2.apk |Forum: https://forum.conflux.fun/t/topic/513|
   |Gourd (Desktop)|Completely open-source Conflux desktop wallet developby the community, supporting all assets on the Conflux chain.|The wallet is available now and is continuously improved.|Github: https://github.com/acuilab/acuibc Forum: https://forum.conflux.fun/t/topic/2020/|
   |cobo|With wallet as the core, create application scenarios such as POS gains and Dapp entry|https://cobo.com/||
-  |ballet||||
+  |ballet|A popular wallet which is easy for everyone.|https://www.balletcrypto.com/||
 </details>
 <br>
 <h3 id="4">- DEX</h3>
