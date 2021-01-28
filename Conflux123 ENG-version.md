@@ -41,6 +41,7 @@
   |GitHub|Conflux official github account|https://github.com/conflux-chain||
   |Conflux technology introduction|Conflux technology introduction document|https://confluxnetwork.org/files/Conflux_Technical_Presentation_20200309.pdf||
   |Conflux WeChat officail account articles|Technology introduction, tutorials, videos, comics|https://shimo.im/sheets/913JVX0avGt61j3E/wIyyF||
+  |Brand Guidelines|Conflux Brand Guidelines|https://www.figma.com/file/nfqsCvoyOXVtVUKiFMZ8qE/Conflux-Guidelines?node-id=0%3A1| |
 </details>
 <br>
 <h3 id="2">- Community</h3>
