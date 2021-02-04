@@ -44,6 +44,7 @@
   |How to trade CFX on Moondex|CFX Trading Tutorial on PC|buy: https://forum.conflux.fun/t/topic/4702 <br> sell: https://juejin.cn/post/6891963199399133198||
   |How to trade CFX on DappBirds|CFX Trading Tutorial on mobile|https://forum.conflux.fun/t/topic/4713||
   |Brand Guidelines|Conflux Brand Guidelines|https://www.figma.com/file/nfqsCvoyOXVtVUKiFMZ8qE/Conflux-Guidelines?node-id=0%3A1| |
+  |Technical Q&As|Conflux Technical Q&As|https://github.com/conflux-fans/conflux-faqs||
 </details>
 <br>
 <h3 id="2">- Community</h3>
@@ -228,7 +229,7 @@
   |Token-Bank|Based on the community culture of conflux, Token-Bank is a simple, effective and easy-to-use platform for issuing tokens on conflux network, making the template of smart contract of token protocols, and developing smart contract of token platform based on conflux network according to the template.|Under development|Forum: https://forum.conflux.fun/t/topic/2207/8|
 </details>
 <br>
-<h3 id="21">- Mini Games</h3>
+<h3 id="21">- Mini Games/Tools</h3>
   
   Guide of mini games in the Conflux community: https://forum.conflux.fun/t/topic/2141
   |Item|Introduction|Website|
@@ -236,6 +237,7 @@
   |Treasure (for FC)|Join the game with 10 FC (the amount required will increase as participants increase), and if no more players join within an hour, the last participant gets all FC in the reward pool.|Chinese: http://dweb.link/ipfs/QmZCsywLZgCZUDG3qJe7NiH9dvjjwhVuSHD4B4hYZEeVJL English: http://dweb.link/ipfs/QmQQTZmXXYWpkuPf7gjyF4p8J5QPbsvmtBjKv4Q2WAUC4s Korean: http://dweb.link/ipfs/QmXE6KQyup5vXm2Tusi2DdekN12VFKZKk9C6CBMJP16jJ3 |
   |FC Lucky Draw|Transfer 5 FC to the contract address, and the round will end once 3 people transfer to the address. One of the 3 will get all 15 FC.|http://dweb.link/ipfs/Qmdrh5ncA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws|
   |Apollo Snatch|Enhanced CFX Lottery Game with Fomo3D + NFT|http://as.yzbbanban.com/||
+  |lottery-draw|Smart contract based lottery items|https://forum.conflux.fun/t/topic/4902|
 </details>
 <br>
 <h3 id="22">- Lectures</h3>
