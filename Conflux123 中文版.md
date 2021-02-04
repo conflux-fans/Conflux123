@@ -44,6 +44,7 @@
   |如何在Moondex上购买CFX|PC端CFX交易教程|买入：https://forum.conflux.fun/t/topic/4702 <br> 卖出：https://juejin.cn/post/6891963199399133198||
   |如何使用DappBirds手机钱包进行CFX交易|手机端CFX交易教程|https://forum.conflux.fun/t/topic/4713||
   |logo的设计规范|Conflux logo设计规范|https://www.figma.com/file/nfqsCvoyOXVtVUKiFMZ8qE/Conflux-Guidelines?node-id=0%3A1| |
+  |技术问答QA|Conflux技术问答|https://github.com/conflux-fans/conflux-faqs||
 </details>
 <br>
 <h3 id="2">- 社区</h3>
@@ -228,7 +229,7 @@
   |Token-Bank|结合Conflux社区文化，实现一套简约、有效、易操作基于Conflux网络的通证发行平台。制作通用证书协议智能合约模板，并根据模板开发基于Conflux网络的通证平台智能合约。|开发中|论坛：https://forum.conflux.fun/t/topic/2207/8|
 </details>
 <br>
-<h3 id="21">- 社区小游戏</h3>
+<h3 id="21">- 社区小游戏/工具</h3>
   
   社区游戏汇总导航：https://forum.conflux.fun/t/topic/2141
   |名称|简介|网址|
@@ -236,6 +237,7 @@
   |FC夺宝游戏（熬鹰）|初始参与为10FC，参与票随次数增加。若一小时没有人继续参与，则最后参与者得到奖池大奖。|中文版: http://dweb.link/ipfs/QmZCsywLZgCZUDG3qJe7NiH9dvjjwhVuSHD4B4hYZEeVJL 英文版： http://dweb.link/ipfs/QmQQTZmXXYWpkuPf7gjyF4p8J5QPbsvmtBjKv4Q2WAUC4s 韩文版: http://dweb.link/ipfs/QmXE6KQyup5vXm2Tusi2DdekN12VFKZKk9C6CBMJP16jJ3 |
   |FC幸运抽奖游戏 |转5fc到合约地址，满3人合约进行随机抽奖，一人独揽大奖。|http://dweb.link/ipfs/Qmdrh5ncA6cQKG3Ez3NPqxzHuDNHLXLbeFWDoMXtgedTws|
   |小鸡快跑|Fomo3D+NFT的CFX熬鹰抽奖小游戏|http://as.yzbbanban.com/||
+  |lottery-draw|基于智能合约的抽奖项目分享|https://forum.conflux.fun/t/topic/4902|
 </details>
 <br>
 <h3 id="22">- 教学</h3>
