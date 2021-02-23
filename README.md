@@ -1,9 +1,8 @@
 # Conflux123中文版
 <br>
-Conflux123英文版：[Conflux123 ENG-version](https://github.com/conflux-fans/Conflux123/blob/main/Conflux123%20ENG-version.md)
+Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Conflux123/blob/main/Conflux123%20ENG-version.md
 
 <br><br><br>
-
 [- 推荐](#1) <br>
 [- 社区](#2) <br>
 [- 钱包](#3) <br>
