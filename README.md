@@ -296,6 +296,6 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |能源环境资产跟踪管理|项目旨在将能源的环境属性标记为资产（即环境属性的资产化），形成以虚拟资产的形态展现的环境资产，采用区块链技术对其产生、交易、终端使用的全生命周期进行跟踪及管理。|开发中|论坛：https://forum.conflux.fun/t/topic/2810|
-  |区块链农产品合格证|基于Conflux区块链技术的食品安全信息追溯合约|正在开发中|https://forum.conflux.fun/t/topic/4132|
+  |区块链农产品合格证|基于Conflux区块链技术的食品安全信息追溯合约|开发中|https://forum.conflux.fun/t/topic/4132|
 </details>
 <br>
