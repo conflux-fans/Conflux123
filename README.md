@@ -257,6 +257,7 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |CIP|Conflux 改进提案，介绍：https://juejin.cn/post/6914956571432730637/||https://www.github.com/Conflux-Chain/CIPs|
+  |Loopss.me|Web3.0可编程社会关系协议||https://forum.conflux.fun/t/topic/4012|
 </details>
 <br>
 <h3 id="24">- 交易所</h3>
