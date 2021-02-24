@@ -177,6 +177,7 @@
   |Item|Introduction|Website|Github/Forum|
   |:-:|:-:|:-:|:-:|
   |Conflux domain service|Similar to ENS domain service|https://forum.conflux.fun/t/topic/1596/25 |Forum: https://forum.conflux.fun/t/topic/1596/25 |
+  |Advance Key|Convenient blockchain login payment infrastructure|https://advancekey.xyz/ Under development|https://forum.conflux.fun/t/topic/4464|
 </details>
 <br>
 <h3 id="15">- Blogs</h3>
@@ -254,6 +255,7 @@
   |Item|Introduction|Website|Github/Forum|
   |:-:|:-:|:-:|:-:|
   |CIP|Conflux Improvement Proposals, Introduction: https://juejin.cn/post/6914956571432730637/||https://www.github.com/Conflux-Chain/CIPs|
+  |Loopss.me|Web3.0 Programmable social relations protocol|Under development|https://forum.conflux.fun/t/topic/4012|
 </details>
 <br>
 <h3 id="24">- Exchanges</h3>
@@ -291,5 +293,6 @@
   |Item|Introduction|Website|Github/Forum|
   |:-:|:-:|:-:|:-:|
   |Energy Environment Asset Tracing and Management|The project is aimed to label the environment attributions of energy as assets (capitalize the environment attributions of energy), form environment assets in forms of crypto asset, trace and manage its life cycle with blockchain technology, including production, trade and using.|Under Development|Forum: https://forum.conflux.fun/t/topic/2810|
+  |Blockchain agricultural products certification|Food safety information traceability contract based on Conflux blockchain technology|Under development|https://forum.conflux.fun/t/topic/4132|
 </details>
 <br>
