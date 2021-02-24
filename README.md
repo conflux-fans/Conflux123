@@ -180,6 +180,7 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |Conflux域名服务|Conflux域名服务是类似ENS的域名服务。|https://forum.conflux.fun/t/topic/1596/25 |论坛：https://forum.conflux.fun/t/topic/1596/25 |
+  |Advance Key|低门槛的区块链登陆支付基础设施|https://advancekey.xyz/ 正在开发中|https://forum.conflux.fun/t/topic/4464|
 </details>
 <br>
 <h3 id="15">- 博客</h3>
@@ -257,7 +258,7 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |CIP|Conflux 改进提案，介绍：https://juejin.cn/post/6914956571432730637/||https://www.github.com/Conflux-Chain/CIPs|
-  |Loopss.me|Web3.0可编程社会关系协议||https://forum.conflux.fun/t/topic/4012|
+  |Loopss.me|Web3.0可编程社会关系协议|正在开发中|https://forum.conflux.fun/t/topic/4012|
 </details>
 <br>
 <h3 id="24">- 交易所</h3>
