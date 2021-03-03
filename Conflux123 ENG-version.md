@@ -281,12 +281,12 @@
   <br>
   <i>FC:</i>
   
-  |Item|Introduction|Website|Github/Forum|
-  |:-:|:-:|:-:|:-:|
-  |MXC||https://www.mxc.ai ， https://www.mxcio.co||
-  |Jubi||https://www.jbex.com/||
-  |Lbank||https://www.lbank.info ， https://www.lbank.me/||
-  |Hoo||https://hoo.com/ ， https://hoozh.com/||
+  |Item|Introduction|Website|
+  |:-:|:-:|:-:|
+  |MXC||https://www.mxc.ai ， https://www.mxcio.co|
+  |Jubi||https://www.jbex.com/|
+  |Lbank||https://www.lbank.info ， https://www.lbank.me/|
+  |Hoo||https://hoo.com/ ， https://hoozh.com/|
 </details>
 <br>
 <h3 id="25">- Others</h3>
