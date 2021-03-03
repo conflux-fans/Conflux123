@@ -262,20 +262,21 @@
   
   <i>CFX:</i>
   
-  |Item|Introduction|Website|Github/Forum|
-  |:-:|:-:|:-:|:-:|
-  |Hoo||https://hoo.com/ , https://hoozh.com/||
-  |MXC||https://www.mxc.ai , https://www.mxcio.co||
-  |CITEX||https://www.citex.io/ , https://www.citex.me/#/home||
-  |HOTBIT||https://www.hotbit.pro/ , https://www.hotbit.io||
-  |BiKi||https://www.biki.cc ，https://www.biki.com||
-  |CoinEx||https://www.coinex.co/||
-  |gate.io||https://www.gateio.tv ， https://www.gatecn.io||
-  |BITKAN||||
-  |LBank||https://www.lbank.info ， https://www.lbank.me/||
-  |Jubi||https://www.jbex.com/||
-  |BitAsset||https://www.bitasset.cn/ ， https://www.bitasset.com||
-  |Ixx||||
+  |Item|Introduction|Website|
+  |:-:|:-:|:-:|
+  |OKEx|(Conflux new addresses are supported)|https://www.okex.com/|
+  |Hoo||https://hoo.com/ , https://hoozh.com/|
+  |MXC||https://www.mxc.ai , https://www.mxcio.co|
+  |CITEX||https://www.citex.io/ , https://www.citex.me/#/home|
+  |HOTBIT||https://www.hotbit.pro/ , https://www.hotbit.io|
+  |BiKi||https://www.biki.cc ，https://www.biki.com|
+  |CoinEx||https://www.coinex.co/|
+  |gate.io||https://www.gateio.tv ， https://www.gatecn.io|
+  |BITKAN|||
+  |LBank||https://www.lbank.info ， https://www.lbank.me/|
+  |Jubi||https://www.jbex.com/|
+  |BitAsset||https://www.bitasset.cn/ ， https://www.bitasset.com|
+  |Ixx|||
   
   <br>
   <i>FC:</i>
