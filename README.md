@@ -284,12 +284,12 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
   <br>
   <i>FC:</i>
   
-  |名称|简介|网址|github/论坛地址|
-  |:-:|:-:|:-:|:-:|
-  |抹茶（MXC）||https://www.mxc.ai ， https://www.mxcio.co||
-  |聚币||https://www.jbex.com/||
-  |Lbank||https://www.lbank.info ， https://www.lbank.me/||
-  |Hoo（虎符）||https://hoo.com/ ， https://hoozh.com/||
+  |名称|简介|网址|
+  |:-:|:-:|:-:|
+  |抹茶（MXC）||https://www.mxc.ai ， https://www.mxcio.co|
+  |聚币||https://www.jbex.com/|
+  |Lbank||https://www.lbank.info ， https://www.lbank.me/|
+  |Hoo（虎符）||https://hoo.com/ ， https://hoozh.com/|
 </details>
 <br>
 <h3 id="25">- 其它</h3>
