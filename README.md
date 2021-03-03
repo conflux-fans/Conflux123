@@ -265,20 +265,21 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
   
   <i>CFX:</i>
   
-  |名称|简介|网址|github/论坛地址|
-  |:-:|:-:|:-:|:-:|
-  |Hoo（虎符)||https://hoo.com/ , https://hoozh.com/||
-  |抹茶（MXC)||https://www.mxc.ai , https://www.mxcio.co||
-  |C网（CITEX）||https://www.citex.io/ , https://www.citex.me/#/home||
-  |HOTBIT||https://www.hotbit.pro/ , https://www.hotbit.io||
-  |BiKi||https://www.biki.cc ，https://www.biki.com||
-  |CoinEx||https://www.coinex.co/||
-  |gate.io||https://www.gateio.tv ， https://www.gatecn.io||
-  |BITKAN||||
-  |LBank||https://www.lbank.info ， https://www.lbank.me/||
-  |聚币||https://www.jbex.com/||
-  |BitAsset||https://www.bitasset.cn/ ， https://www.bitasset.com||
-  |Ixx||||
+  |名称|简介|网址|
+  |:-:|:-:|:-:|
+  |OKEx|（支持Conflux新地址）|https://www.okex.com/|
+  |Hoo（虎符)||https://hoo.com/ , https://hoozh.com/|
+  |抹茶（MXC)||https://www.mxc.ai , https://www.mxcio.co|
+  |C网（CITEX）||https://www.citex.io/ , https://www.citex.me/#/home|
+  |HOTBIT||https://www.hotbit.pro/ , https://www.hotbit.io|
+  |BiKi||https://www.biki.cc ，https://www.biki.com|
+  |CoinEx||https://www.coinex.co/|
+  |gate.io||https://www.gateio.tv ， https://www.gatecn.io|
+  |BITKAN|||
+  |LBank||https://www.lbank.info ， https://www.lbank.me/|
+  |聚币||https://www.jbex.com/|
+  |BitAsset||https://www.bitasset.cn/ ， https://www.bitasset.com|
+  |Ixx|||
   
   <br>
   <i>FC:</i>
