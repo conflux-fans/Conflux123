@@ -39,6 +39,7 @@
   |Bounty|Conflux bounty platform|https://bounty.conflux-chain.org/||
   |ShuttleFlow|Conflux cross-chain solution, bringing bitcoin/ethereum/erc20 assets to the Conflux chain|https://shuttleflow.io/shuttle/in|https://conflux-dev.github.io/conflux-dex-docs/shuttleflow/|
   |GitHub|Conflux official github account|https://github.com/conflux-chain||
+  |DeFi|Conflux DeFi|https://defi.confluxnetwork.org/en/||
   |Conflux technology introduction|Conflux technology introduction document|https://confluxnetwork.org/files/Conflux_Technical_Presentation_20200309.pdf||
   |Conflux WeChat officail account articles|Technology introduction, tutorials, videos, comics|https://shimo.im/sheets/913JVX0avGt61j3E/wIyyF||
   |How to trade CFX on Moondex|CFX Trading Tutorial on PC|buy: https://forum.conflux.fun/t/topic/4702 <br> sell: https://juejin.cn/post/6891963199399133198||
