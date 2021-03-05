@@ -155,6 +155,7 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
   |Stampers|FC投票治理工具|https://stampers.app/||
   |governance|CFX投票治理工具|https://governance.confluxnetwork.org/zh/||
   |TrustDomains|正在开发中|https://trustdomains.org||
+  |BulkSender|最受信任的加密货币分发应用，支持批量发送CFX、erc20代币和NFT|https://conflux.bulksender.app||
 </details>
 <br>
 <h3 id="12">- 质押服务</h3>
