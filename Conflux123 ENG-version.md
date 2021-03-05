@@ -152,6 +152,7 @@
   |Stampers|FC voting tool|https://stampers.app/||
   |Governance|CFX voting tool|https://governance.confluxnetwork.org/zh/||
   |TrustDomains|Under development|https://trustdomains.org||
+  |BulkSender|The most trusted crypto bulk-sending application, allows you to distribute CFX, erc20 tokens and NFTs to multiple addresses in a single transaction.|https://conflux.bulksender.app||
 </details>
 <br>
 <h3 id="12">- Staking</h3>
