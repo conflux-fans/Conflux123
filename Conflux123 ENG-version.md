@@ -46,6 +46,7 @@
   |How to trade CFX on DappBirds|CFX Trading Tutorial on mobile|https://forum.conflux.fun/t/topic/4713||
   |Brand Guidelines|Conflux Brand Guidelines|https://www.figma.com/file/nfqsCvoyOXVtVUKiFMZ8qE/Conflux-Guidelines?node-id=0%3A1| |
   |Technical Q&As|Conflux Technical Q&As|https://github.com/conflux-fans/conflux-faqs||
+  |Infrastructure Tools & Applications Mapping|Conflux Infrastructure Tools & Applications Mapping|https://juejin.cn/post/6844904185951944711||
 </details>
 <br>
 <h3 id="2">- Community</h3>
