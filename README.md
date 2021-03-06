@@ -49,6 +49,7 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
   |如何使用DappBirds手机钱包进行CFX交易|手机端CFX交易教程|https://forum.conflux.fun/t/topic/4713||
   |logo的设计规范|Conflux logo设计规范|https://www.figma.com/file/nfqsCvoyOXVtVUKiFMZ8qE/Conflux-Guidelines?node-id=0%3A1| |
   |技术问答QA|Conflux技术问答|https://github.com/conflux-fans/conflux-faqs||
+  |基础架构工具和应用程序映射|Conflux基础架构工具和应用程序映射|https://juejin.cn/post/6844904185951944711||
 </details>
 <br>
 <h3 id="2">- 社区</h3>
