@@ -94,7 +94,7 @@
   |Item|Introduction|Website|
   |:-:|:-:|:-:|
   |F2Pool||https://www.f2pool.com|
-  |Ppoolflare||https://poolflare.com/coin/cfx/pool|
+  |Poolflare||https://poolflare.com/coin/cfx/pool|
   |Huobi mining pool||https://www.huobipool.com/pow|
   |666pool||https://666pool.cn/pool2/block.php?coin=CFX|
   |BeePool||https://www.beepool.org/coindetail/cfx|
