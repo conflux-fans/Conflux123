@@ -172,14 +172,14 @@
   |Conflux-Truffle|Tools for Comflux blockchain contract development|https://www.npmjs.com/package/conflux-truffle|  github: https://github.com/Pana/conflux-101/blob/master/docs/conflux-truffle/ultimate-cfxtruffle-guide.md <br> Forum: https://juejin.cn/post/6867467433188261902|
   |Conflux Studio (IDE)||https://github.com/ObsidianLabs/ConfluxStudio||
   |Conflux Tutorials||https://shimo.im/sheets/913JVX0avGt61j3E/MODOC||
-  |汇流BPM快速开发平台||Under development||
+  |Conflux BPM Rapid development platform||Under development||
 </details>
 <br>
 <h3 id="14">- Infrastructure</h3>
   
   |Item|Introduction|Website|Github/Forum|
   |:-:|:-:|:-:|:-:|
-  |Conflux domain service|Similar to ENS domain service|https://forum.conflux.fun/t/topic/1596/25 |Forum: https://forum.conflux.fun/t/topic/1596/25 |
+  |Conflux domain service|Similar to ENS domain service|https://trustdomains.org |Forum: https://forum.conflux.fun/t/topic/1596/25 |
   |Advance Key|Convenient blockchain login payment infrastructure|https://advancekey.xyz/ Under development|https://forum.conflux.fun/t/topic/4464|
 </details>
 <br>
