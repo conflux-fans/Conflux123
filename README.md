@@ -182,7 +182,7 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
-  |Conflux域名服务|Conflux域名服务是类似ENS的域名服务。|https://forum.conflux.fun/t/topic/1596/25 |论坛：https://forum.conflux.fun/t/topic/1596/25 |
+  |Conflux域名服务|Conflux域名服务是类似ENS的域名服务。|https://trustdomains.org |论坛：https://forum.conflux.fun/t/topic/1596/25 |
   |Advance Key|低门槛的区块链登陆支付基础设施|https://advancekey.xyz/ 正在开发中|https://forum.conflux.fun/t/topic/4464|
 </details>
 <br>
