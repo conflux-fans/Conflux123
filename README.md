@@ -73,6 +73,7 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
   |Portal|ConfluxPortal PC端插件钱包|https://portal.conflux-chain.org/||
+  |牛牛钱包|Conflux专用钱包|https://getbull.app/ ||
   |Hashkey||https://hub.hashkey.com||
   |虎符||https://hoozh.com  https://hoo.com/||
   |币信||https://bixin.com||
