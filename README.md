@@ -274,15 +274,16 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
   |OKEx|（支持Conflux新地址）|https://www.okex.com/|
   |Hoo（虎符)||https://hoo.com/ , https://hoozh.com/|
   |抹茶（MXC)||https://www.mxc.ai , https://www.mxcio.co|
-  |C网（CITEX）||https://www.citex.io/ , https://www.citex.me/#/home|
-  |HOTBIT||https://www.hotbit.pro/ , https://www.hotbit.io|
-  |BiKi||https://www.biki.cc ，https://www.biki.com|
+  |币安交易所||www.binancezh.co/zh-CN|
+  |C网（CITEX）|||
+  |HOTBIT||https://www.hotbit.pro/|
+  |BiKi||https://www.biki.cc|
   |CoinEx||https://www.coinex.co/|
   |gate.io||https://www.gateio.tv ， https://www.gatecn.io|
   |BITKAN|||
   |LBank||https://www.lbank.info ， https://www.lbank.me/|
   |聚币||https://www.jbex.com/|
-  |BitAsset||https://www.bitasset.cn/ ， https://www.bitasset.com|
+  |BitAsset||https://www.bitasset.com|
   |Ixx|||
   
   <br>
