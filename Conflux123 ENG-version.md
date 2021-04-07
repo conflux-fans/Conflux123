@@ -70,6 +70,7 @@
   |Item|Introduction|Website|Github/Forum|
   |:-:|:-:|:-:|:-:|
   |Portal|ConfluxPortal, plug-in wallet for PC|https://portal.conflux-chain.org/||
+  |Bull App|Secure Crypto Wallet & DApp Browser|https://getbull.app/||
   |Hashkey||https://hub.hashkey.com||
   |Hoo||https://hoozh.com  https://hoo.com/||
   |Bixin||https://bixin.com||
