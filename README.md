@@ -7,7 +7,7 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
 [- 社区](#2) <br>
 [- 钱包](#3) <br>
 [- 去中心化交易所](#4) <br>
-[- 矿场](#5) <br>
+[- 矿池](#5) <br>
 [- 海外项目](#6) <br>
 [- 借贷](#7) <br>
 [- 衍生品](#8) <br>
@@ -93,7 +93,7 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
   |MoonSwap|基于跨链资产协议 ShuttleFlow 构建的 DEX 协议，为用户提供 0 GAS和高速流畅的全新 AMM 交易体验。|https://moonswap.fi/||
 </details>
 <br>
-<h3 id="5">- 矿场</h3>
+<h3 id="5">- 矿池</h3>
   
   |名称|简介|网址|
   |:-:|:-:|:-:|
