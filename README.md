@@ -275,7 +275,7 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
   |Hoo（虎符)||https://hoo.com/ , https://hoozh.com/|
   |抹茶（MXC)||https://www.mxc.ai , https://www.mxcio.co|
   |币安交易所||www.binancezh.co/zh-CN|
-  |C网（CITEX）|||
+  |CITEX||https://trade.citex.co.kr/trade/CFX_USDT|
   |HOTBIT||https://www.hotbit.pro/|
   |BiKi||https://www.biki.cc|
   |CoinEx||https://www.coinex.co/|
