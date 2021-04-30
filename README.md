@@ -15,7 +15,7 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
 [- 稳定币](#10) <br>
 [- 工具](#11) <br>
 [- 质押服务](#12) <br>
-[- 开发者](#13) <br>
+[- 开发工具](#13) <br>
 [- 基础设施](#14) <br>
 [- 博客](#15) <br>
 [- 隐私](#16) <br>
@@ -168,7 +168,7 @@ Conflux123英文版(Conflux123 ENG-version)：https://github.com/conflux-fans/Co
   |FC质押|FC兑换CFX|https://fccfx.confluxscan.io/||
 </details>
 <br>
-<h3 id="13">- 开发者</h3>
+<h3 id="13">- 开发工具</h3>
   
   |名称|简介|网址|github/论坛地址|
   |:-:|:-:|:-:|:-:|
